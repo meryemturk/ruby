@@ -1,4 +1,4 @@
-def calculator_2
+def calculator
     puts "give me the first number"
     first_number = gets.chomp.to_i
     puts "give me the second number"
@@ -10,4 +10,4 @@ def calculator_2
     
 
 end 
-calculator_2()
+calculator()
